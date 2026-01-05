@@ -46,53 +46,95 @@
   ],
 
   "work": [
-    {
-      "name": "Nanyang Technological University (NTU), Singapore",
-      "position": "Postdoctoral Research Fellow",
-      "startDate": "2024-02-01",
-      "endDate": "2024-05-01",
-      "summary": "Research on photonic metasurfaces, guided resonances, and polarization control."
-    },
-    {
-      "name": "Indian Institute of Science (IISc), Bangalore",
-      "position": "Project Scientist I",
-      "startDate": "2023-10-01",
-      "endDate": "2024-02-01",
-      "summary": "Worked on nanophotonics and surface-state engineering."
-    },
-    {
-      "name": "Indian Institute of Technology Kanpur",
-      "position": "Project Associate II",
-      "startDate": "2022-12-01",
-      "endDate": "2023-07-01",
-      "summary": "Experimental photonics and dispersion characterization."
-    },
-    {
-      "name": "NTPC Ltd.",
-      "position": "Deputy Manager",
-      "startDate": "2011-09-01",
-      "endDate": "2017-07-01",
-      "summary": "Power systems engineering and operations."
-    }
-  ],
-
+  {
+    "name": "Nanyang Technological University (NTU), Singapore",
+    "position": "Postdoctoral Research Fellow",
+    "startDate": "2024-02-01",
+    "endDate": "2024-05-01"
+  },
+  {
+    "name": "Indian Institute of Science (IISc), Bangalore",
+    "position": "Project Scientist I",
+    "startDate": "2023-10-01",
+    "endDate": "2024-02-01"
+  },
+  {
+    "name": "Indian Institute of Science (IISc), Bangalore",
+    "position": "Research Associate",
+    "startDate": "2023-08-01",
+    "endDate": "2023-09-01"
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "position": "Project Associate II",
+    "startDate": "2022-12-01",
+    "endDate": "2023-07-01"
+  },
+  {
+    "name": "NTPC Ltd.",
+    "position": "Deputy Manager",
+    "startDate": "2011-09-01",
+    "endDate": "2017-07-01"
+  },
+  {
+    "name": "Jindal Steel & Power Ltd. (JSPL)",
+    "position": "Graduate Engineer Trainee",
+    "startDate": "2010-07-01",
+    "endDate": "2011-05-01"
+  }
+],
   "awards": [
-    {
-      "title": "Outstanding Ph.D. Thesis Award",
-      "date": "2023-01-01",
-      "awarder": "IIT Kanpur"
-    },
-    {
-      "title": "Best Ph.D. Thesis Award",
-      "date": "2022-01-01",
-      "awarder": "Indian Laser Association"
-    },
-    {
-      "title": "CMD’s Gold Medal",
-      "date": "2013-01-01",
-      "awarder": "NTPC Ltd."
-    }
-  ],
+  {
+    "title": "Outstanding Ph.D. Thesis Award",
+    "date": "2023-01-01",
+    "awarder": "Indian Institute of Technology Kanpur"
+  },
+  {
+    "title": "Best Ph.D. Thesis Award",
+    "date": "2022-01-01",
+    "awarder": "Indian Laser Association (DAE-BRNS National Laser Symposium, IIT Kharagpur)"
+  },
+  {
+    "title": "Featured Article in Applied Physics Letters",
+    "date": "2022-01-01",
+    "awarder": "American Institute of Physics (AIP) Publishing"
+  },
+  {
+    "title": "100 Seconds Thesis Award",
+    "date": "2021-01-01",
+    "awarder": "Indian National Academy of Engineering (INAE), Kanpur Chapter"
+  },
+  {
+    "title": "Best Poster Presentation",
+    "date": "2021-01-01",
+    "awarder": "OSA Student Chapter, NISER Bhubaneswar"
+  },
+  {
+    "title": "Best Technical Write-up Award",
+    "date": "2020-01-01",
+    "awarder": "OSA–IEEE–Photonics Society Student Chapter, IIT Bombay"
+  },
+  {
+    "title": "Best Poster Award",
+    "date": "2019-01-01",
+    "awarder": "IEEE Photonics Society (WRAP, IIT Guwahati)"
+  },
+  {
+    "title": "CMD’s Gold Medal",
+    "date": "2013-01-01",
+    "awarder": "NTPC Ltd."
+  },
+  {
+    "title": "Directors’ Meritorious Citation",
+    "date": "2013-01-01",
+    "awarder": "Board of Directors, NTPC Ltd."
+  },
+  {
+    "title": "Best Graduating Engineer Award",
+    "date": "2010-01-01",
+    "awarder": "Shri Ram Murti Smarak Trust, Bareilly"
+  }
+],
 
   "certificates": [
     {
