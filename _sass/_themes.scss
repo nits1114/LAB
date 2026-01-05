@@ -6,17 +6,17 @@
 :root {
   color-scheme: light;
 
-  --global-bg-color: #faf9f7;                 // warm off-white
-  --global-code-bg-color: #f1f0ff;
-  --global-text-color: #2b2b2b;
-  --global-text-color-light: #6b6b6b;
+  --global-bg-color: #ffffff;              // pure white
+  --global-code-bg-color: #f4fafa;
+  --global-text-color: #1f2d2d;            // deep teal-gray
+  --global-text-color-light: #5f7f7f;
 
-  --global-theme-color: #7c6ee6;              // lavender
-  --global-hover-color: #5f55c7;
+  --global-theme-color: #1f9e9a;           // teal accent
+  --global-hover-color: #157f7b;
   --global-hover-text-color: #ffffff;
 
-  --global-footer-bg-color: #1f1f2e;
-  --global-footer-text-color: #d8d8ff;
+  --global-footer-bg-color: #0f4f4d;
+  --global-footer-text-color: #e6f7f6;
   --global-footer-link-color: #ffffff;
 
   --global-divider-color: rgba(0, 0, 0, 0.08);
@@ -24,17 +24,17 @@
 
   --global-highlight-color: #ff6b6b;
 
-  --global-back-to-top-bg-color: rgba(60, 55, 150, 0.4);
+  --global-back-to-top-bg-color: rgba(31, 158, 154, 0.4);
   --global-back-to-top-text-color: #ffffff;
 
   --global-newsletter-bg-color: #ffffff;
-  --global-newsletter-text-color: #2b2b2b;
+  --global-newsletter-text-color: #1f2d2d;
 
   /* Tip / Warning / Danger blocks */
-  --global-tip-block: #4caf93;
-  --global-tip-block-bg: #e6f6f2;
-  --global-tip-block-text: #245e54;
-  --global-tip-block-title: #3d8f7f;
+  --global-tip-block: #1f9e9a;
+  --global-tip-block-bg: #e6f7f6;
+  --global-tip-block-text: #0f4f4d;
+  --global-tip-block-title: #157f7b;
 
   --global-warning-block: #f4b400;
   --global-warning-block-bg: #fff6da;
@@ -45,6 +45,8 @@
   --global-danger-block-bg: #ffe3e3;
   --global-danger-block-text: #7a1c1c;
   --global-danger-block-title: #c62828;
+}
+
 
   #light-toggle-system {
     padding-left: 10px;
