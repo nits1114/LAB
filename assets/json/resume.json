@@ -136,21 +136,25 @@
   }
 ],
 
-  "certificates": [
-    {
-      "name": "Nanotechnology",
-      "issuer": "Rice University, USA"
-    },
-    {
-      "name": "Solar Energy",
-      "issuer": "TU Delft, Netherlands"
-    },
-    {
-      "name": "Energy 101",
-      "issuer": "University of Texas at Austin"
-    }
-  ],
-
+  "patents": [
+  {
+    "title": "Complementary Quarter-wave Retardance Device for Generating One or More Polarization States",
+    "number": "563145",
+    "date": "2025-03-01",
+    "country": "India",
+    "status": "Awarded",
+    "Name of Applicants": [
+      "Nitish Kumar Gupta",
+      "Pradeep Chakravarthy",
+      "Mushkumar",
+      "Anjani Kumar Tiwari",
+      "Sudipta Sarkar Pal",
+      "Kumar Vaibhav Srivastava",
+      "Harshawardhan Wanare",
+      "S. Anantha Ramakrishna"
+    ]
+  }
+],
   "publications": [
     {
       "name": "Realization of Jackiw-Rebbi Zero-Energy Modes at Photonic Crystal Domain Walls",
@@ -164,19 +168,19 @@
     }
   ],
 
-  "skills": [
-    {
-      "name": "Photonics",
-      "level": "Expert",
-      "keywords": [
-        "Metamaterials",
-        "Topological Photonics",
-        "Dispersion Engineering",
-        "Nanophotonics"
-      ]
-    }
-  ],
-
+  "book_chapters": [
+  {
+    "title": "Active Tunability in Resonant Metamaterials Using Phase Transitions",
+    "authors": [
+      "Nikita Choudhary",
+      "Anjani Kumar Tiwari",
+      "Nitish Kumar Gupta"
+    ],
+    "book_title": "Handbook of Measurement and Characterization of Metamaterials",
+    "publisher": "Springer",
+    "year": "In Press"
+  }
+],
   "languages": [
     {
       "language": "English",
