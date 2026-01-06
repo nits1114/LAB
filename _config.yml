@@ -643,4 +643,8 @@ jsonresume:
   -book_chapters
   -languages
   -interests
+  -projects
+  -publication
+  -references
+  -volunteer
   
