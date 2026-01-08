@@ -5,45 +5,34 @@
 @use "sass:color";
 
 :root {
-  color-scheme: dark; /* Changed to dark for the 🌌 theme */
-  --global-bg-color: #050505; /* Near black */
-  --global-code-bg-color: #1a1a2e; /* Dark navy */
-  --global-text-color: #e2e8f0; /* Soft white/silver */
-  --global-text-color-light: #94a3b8; 
+  color-scheme: dark;
+  --global-bg-color: #0b0e14;         /* Deep Midnight Background */
+  --global-code-bg-color: #161b22;    /* Darker Code Blocks */
+  --global-text-color: #f0f6fc;       /* Off-White Text */
+  --global-text-color-light: #8b949e; /* Grey Text */
   
-  /* 🌌 Deep Space Theme Colors */
-  --global-theme-color: #6366f1; /* Indigo - representing light/spectrum */
-  --global-hover-color: #8b5cf6; /* Violet hover */
+  /* 🌌 Photonics Theme: Deep Blue & Violet */
+  --global-theme-color: #7d5fff;      /* Bright Violet (Laser/Spectrum) */
+  --global-hover-color: #a29bfe;      /* Soft Purple Hover */
   --global-hover-text-color: #ffffff;
   
-  --global-footer-bg-color: #0f172a;
-  --global-footer-text-color: #94a3b8;
-  --global-footer-link-color: #8b5cf6;
-  --global-distill-app-color: #64748b;
-  --global-divider-color: rgba(255, 255, 255, 0.1);
-  --global-card-bg-color: #111827;
-  --global-highlight-color: #4f46e5; /* Deep purple/blue highlight */
+  --global-footer-bg-color: #050505;
+  --global-footer-text-color: #8b949e;
+  --global-footer-link-color: #7d5fff;
+  
+  --global-divider-color: rgba(255, 255, 255, 0.15);
+  --global-card-bg-color: #1c2128;    /* Dark Card background */
+  --global-highlight-color: #7d5fff;
 
-  --global-back-to-top-bg-color: rgba(99, 102, 241, 0.4);
+  /* 🌀 Science/Tip Blocks in Deep Space Purple */
+  --global-tip-block: #7d5fff;
+  --global-tip-block-bg: #1e1e3f;
+  --global-tip-block-text: #e0e0ff;
+  --global-tip-block-title: #7d5fff;
+
+  --global-back-to-top-bg-color: rgba(125, 95, 255, 0.5);
   --global-back-to-top-text-color: #ffffff;
-  --global-newsletter-bg-color: #1e1b4b;
-  --global-newsletter-text-color: #e2e8f0;
 
-  /* 🌌 Science Block Variations */
-  --global-tip-block: #6366f1;
-  --global-tip-block-bg: #1e1b4b; /* Dark indigo background */
-  --global-tip-block-text: #c7d2fe;
-  --global-tip-block-title: #818cf8;
-  
-  --global-warning-block: #f59e0b;
-  --global-warning-block-bg: #451a03;
-  --global-warning-block-text: #fef3c7;
-  --global-warning-block-title: #fbbf24;
-  
-  --global-danger-block: #ef4444;
-  --global-danger-block-bg: #450a0a;
-  --global-danger-block-text: #fee2e2;
-  --global-danger-block-title: #f87171;
 
   #light-toggle-system {
     padding-left: 10px;
