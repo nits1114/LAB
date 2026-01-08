@@ -28,19 +28,13 @@
       "studyType": "Ph.D.",
       "startDate": "2017",
       "endDate": "2023",
-      "score": "9.5 CGPA",
-      "courses": [
-        "Multispectral Dispersion Engineering",
-        "Topological Photonics",
-        "Metamaterials"
-      ]
+       "Ph.D. Thesis Title": "Multispectral Dispersion Engineering of Sub-Wavelength & Surface States."
     },
     {
       "institution": "U.P. Technical University (AKTU), Lucknow",
       "area": "Electrical & Electronics Engineering",
       "studyType": "B.Tech.",
-      "endDate": "2010",
-      "score": "77% (Honours)"
+      "endDate": "2010"
     }
   ],
 
