@@ -7,44 +7,44 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/nn/";
+      window.location.href = "/LAB/";
     },
   },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/nn/publications/";
+            window.location.href = "/LAB/publications/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/nn/cv/";
+            window.location.href = "/LAB/cv/";
           },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/nn/people/";
+            window.location.href = "/LAB/people/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/nn/books/the_godfather/";
+              window.location.href = "/LAB/books/the_godfather/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/nn/news/announcement_2/";
+              window.location.href = "/LAB/news/announcement_2/";
             },},{id: "news-announcement-3",
           title: 'Announcement_3',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/nn/news/announcement_3/";
+              window.location.href = "/LAB/news/announcement_3/";
             },},{id: "news-announcement",
           title: 'announcement.',
           description: "",
@@ -52,47 +52,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/1_project/";
+              window.location.href = "/LAB/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/2_project/";
+              window.location.href = "/LAB/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/3_project/";
+              window.location.href = "/LAB/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/4_project/";
+              window.location.href = "/LAB/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/5_project/";
+              window.location.href = "/LAB/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/6_project/";
+              window.location.href = "/LAB/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/7_project/";
+              window.location.href = "/LAB/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/8_project/";
+              window.location.href = "/LAB/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/nn/projects/9_project/";
+              window.location.href = "/LAB/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -112,7 +112,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/nn/feed.xml", "_blank");
+          window.open("/LAB/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

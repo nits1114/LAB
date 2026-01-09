@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nits114.github.io/nn/sitemap.xml
+Sitemap: https://nits114.github.io/LAB/sitemap.xml
