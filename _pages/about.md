@@ -38,9 +38,28 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <div style="text-align: justify;">
-I have received my Ph.D. degree in Photonics Science and Engineering from the Indian Institute of Technology (IIT) Kanpur, India, in 2023.
+I earned my Ph.D. in Photonics Science and Engineering from the Indian Institute of Technology (IIT) Kanpur, India (2023) and I’m currently an Assistant Professor in the Department of Electrical and Electronics Engineering at BITS Pilani, Hyderabad Campus.
 
-I am currently working as an Assistant Professor in the Department of Electrical and Electronics Engineering at the Birla Institute of Technology and Science (BITS) Pilani Hyderabad Campus.  Prior to my current position, I had an opportunity to work as a Postdoctoral Research Fellow in Prof. Ranjan Singh's research group at the Centre for Disruptive Photonic Technologies, Nanyang Technological University (NTU), Singapore. Before that, in 2023, I served as a Project Scientist with the Centre for Nanoscience and Engineering, Indian Institute of Science (IISc), Bangalore, India. Back in 2010, after my undergraduate studies, I went on to gain professional experience with the core sector manufacturing industries and joined Jindal Steel & Power Ltd. (JSPL). After a brief stint at JSPL, I joined NTPC Ltd. (a Govt. of India Maharatna PSU) in 2011 and served there in the capacity of Deputy Manager till 2017. Thereafter, moved back to academics and joined the Ph.D. program at the Indian Institute of Technology (IIT) Kanpur, India, in 2017. My Ph.D. thesis on dispersion-engineered sub-wavelength and surface states was conferred with an Outstanding Ph.D. Thesis Award by IIT Kanpur in its 56th Convocation. It has also received the Best PhD Thesis award from the Indian Laser Association in DAE-BRNS National Laser Symposium-32. 
+<br><br>
 
+Before joining BITS, I worked as a Postdoctoral Research Fellow in Prof. Ranjan Singh’s group at the Centre for Disruptive Photonic Technologies, Nanyang Technological University (NTU), Singapore. In 2023, I also served as a Project Scientist at the Centre for Nanoscience and Engineering (CeNSE), Indian Institute of Science (IISc), Bangalore, India.
 
+<br><br>
+
+Earlier in my career, after my undergraduate studies (2010), I gained core-sector industry experience at Jindal Steel & Power Ltd. (2010–11), and then joined NTPC Ltd. (a Govt. of India Maharatna PSU) in 2011, serving as Deputy Manager until 2017—before returning to academia for my Ph.D. at IIT Kanpur (2017).
+
+<br><br>
+
+My Ph.D. thesis on dispersion-engineered sub-wavelength and surface states received the Outstanding Ph.D. Thesis Award (IIT Kanpur, 56th Convocation) and the Best PhD Thesis Award from the Indian Laser Association at the DAE-BRNS National Laser Symposium-32 (IIT Kharagpur).
+
+<br><br>
+
+<h3>Research</h3>
+
+My research sits at the intersection of nanophotonics and quantum matter, where carefully designed photonic structures—photonic crystals, guided-mode resonance platforms, and plasmonic/metasurface geometries—are used to sculpt resonances that strengthen and control light–matter interaction. I am especially interested in topological photonics and photonic realizations of quantum condensed-matter physics, translating concepts such as protected states and engineered bandstructures into compact, robust optical platforms.
+
+<br><br>
+
+A recent thrust of my work is toward photonic integrated circuits and quantum photonics, focusing on resonant devices that are both physically insightful and practically useful. More recently, I am expanding these directions into nonlinear optics and two-dimensional materials, exploring how strong confinement, symmetry, and dispersion engineering can unlock new regimes of functionality for next-generation photonic systems.
 </div>
+
