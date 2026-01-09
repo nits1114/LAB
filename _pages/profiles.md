@@ -20,8 +20,8 @@ profiles:
     content: phani.md
     image_circular: false
     more_info: >
-      <p>Chennoju Phanindra<br>
-      PhD Scholar</p>
+      <p>Chennoju Phanindra<br></p>
+      <p>PhD Scholar</p>
 
   - align: left
     image: malleswari.jpeg
