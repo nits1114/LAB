@@ -15,14 +15,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Ardra Muriyankandathil </p>
-      <p>PhD student </p>
+      <p>PhD scholar (BITS Pilani-la Trobe joint PhD) </p>
   
   - align: right
-    image: prof_pic.jpg
+    image: phani.jpeg
     # content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Chennoju Phanindra</p>
-      <p>PhD student </p>
+      <p>PhD scholar </p>
     
 ---
