@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://p20250093-afk.github.io/nn/sitemap.xml
+Sitemap: https://nits114.github.io/nn/sitemap.xml
