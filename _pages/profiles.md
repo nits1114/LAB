@@ -27,8 +27,10 @@ profiles:
     content: malleswari.md
     image_circular: false
     more_info: >
-      <p>Bommalapati Malleswari</p>
-      <p>PhD Scholar</p>
-      <p>Employed at C-DOT</p>
+      more_info: >
+  Bommalapati Malleswari<br>
+  PhD Scholar<br>
+  Employed at C-DOT
+
      
 ---
