@@ -636,7 +636,7 @@ jekyll_get_json:
 
 jsonresume:
   - contact_info
-  - work
+  - Professional Experience
   - education
   - publications
   - projects
