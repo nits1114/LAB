@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: left
-    image: kkkk.png
+    image: ardra.png
     content: ardra.md
     image_circular: false
     more_info: >
