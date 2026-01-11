@@ -31,11 +31,18 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
-// Profile
-.profile {
-  img {
-    width: 100%;
-  }
+
+.page-about .profile img {
+    width: 100px;
+    height: auto;
+}
+
+
+.page-research .profile img {
+    width: 60%;
+    height: auto;
+}
+
 }
 
 // TODO: redefine content layout.
