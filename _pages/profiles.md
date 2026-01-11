@@ -16,7 +16,7 @@ profiles:
       <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
 
   - align: right
-    image: phani.jpeg
+    image: phani.png
     content: phani.md
     image_circular: false
     more_info: |
