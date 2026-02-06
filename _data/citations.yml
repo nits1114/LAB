@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-06'
 papers:
   ZNU3u0wAAAAJ:35N4QoGY0k4C:
     citations: 9
     title: Impact of FBG feedback phase on laser dynamics
     year: '2022'
   ZNU3u0wAAAAJ:3s1wT3WcHBgC:
-    citations: 1
+    citations: 2
     title: Controlled angular correlations and polarization speckle in scattering birefringent films
     year: '2025'
   ZNU3u0wAAAAJ:4OULZ7Gr8RgC:
@@ -126,7 +126,7 @@ papers:
     title: Polarization Speckle Generation & Control of Angular Memory Effect in Optically Anisotropic Media
     year: '2022'
   ZNU3u0wAAAAJ:k_IJM867U9cC:
-    citations: 9
+    citations: 10
     title: Singular phase characteristics of electromagnetic absorbers and a framework for low-RCS target detection
     year: '2022'
   ZNU3u0wAAAAJ:lSLTfruPkqcC:
