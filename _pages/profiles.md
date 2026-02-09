@@ -10,7 +10,7 @@ sections:
   - title: PhD Scholars
     profiles:
       - align: left
-        image: phani.jpeg
+        image: ph.png
         content: phani.md
         image_circular: false
         more_info: |
