@@ -9,7 +9,16 @@ nav_order: 7
 sections:
   - title: PhD Scholars
     profiles:
+      
       - align: left
+        image: phani.jpeg
+        content: phani.md
+        image_circular: false
+        more_info: |
+          <p>Chennoju Phanindra</p>
+          <p>PhD Scholar</p>
+          
+          - align: right
         image: ardra.jpeg
         content: ardra.md
         image_circular: false
@@ -17,13 +26,6 @@ sections:
           <p>Ardra Muriyankandathil</p>
           <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
 
-      - align: right
-        image: phani.jpeg
-        content: phani.md
-        image_circular: false
-        more_info: |
-          <p>Chennoju Phanindra</p>
-          <p>PhD Scholar</p>
 
       - align: left
         image: malleswari.jpeg
