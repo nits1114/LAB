@@ -13,9 +13,8 @@ sections:
         content: phani.md
         image_circular: false
         more_info: >
-          <p>Ardra Muriyankandathil</p>
-          <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
-
+          <p>Chennoju Phanindra</p>
+             <p>PhD Scholar</p>
 
       - align: right
         image: ardra.jpeg
