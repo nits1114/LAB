@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
   <strong>Assistant Professor</strong> &#8226; Department of Electrical and Electronics Engineering<br>
-  <a href="https://www.bits-pilani.ac.in/hyderabad/electrical-electronics-engineering/" target="_blank">BITS Pilani, Hyderabad</a><br><br>
+  <a href="https://www.bits-pilani.ac.in/hyderabad/electrical-electronics-engineering/" target="_blank">BITS Pilani, Hyderabad Campus</a><br><br>
   <strong>Email:</strong> nitishkumar.gupta@hyderabad.bits-pilani.ac.in<br>
   <strong>Phone:</strong> +91 40 66303962<br>
   <strong>Address:</strong> Office H-219, Department of EEE, BITS Pilani, Hyderabad Campus
