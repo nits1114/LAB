@@ -1,81 +1,69 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: BITS Pilani – TIFR Hyderabad Collaborative PhD Opportunity
+description: Collaborative PhD Programme
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## BITS Pilani – TIFR Hyderabad Collaborative PhD Opportunity
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A collaborative PhD initiative by the Birla Institute of Technology and Science (BITS), Pilani and the Tata Institute of Fundamental Research (TIFR) Hyderabad, to nurture the next generation of researchers working at the frontiers of nanophotonics and quantum photonics.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Proposed Domain of Research
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+We will pursue research at the interface of Nanophotonics and Quantum Photonics, using photonic crystal and metasurface platforms as the primary physical setting. A central emphasis will be on customized light–matter interactions engineered through resonant and lattice-based photonic structures to enable and study nonlinear and quantum optical processes in thin-film and integrated photonic architectures.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Who should apply
 
-{% raw %}
+• Candidates interested to work on experimental and/or theoretical work in nanophotonics, photonic crystals, metasurfaces, and nonlinear optics.  
+• Applicants interested in quantum photonics, engineered light–matter interactions, and thin-film or integrated photonic platforms.  
+• Students with strong motivation for interdisciplinary research spanning physics, photonics, materials, and device-level concepts.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+---
 
-{% endraw %}
+## Desired Qualifications
+
+• M.Sc./M.E./M.Tech in Physics, Applied Physics, Photonics/Optics, Materials Science, or allied disciplines.  
+• Exceptional B.E./B.Tech candidates in relevant disciplines with demonstrated background in optics/photonics/quantum technologies can be considered.
+
+---
+
+## Supervisors
+
+**Prof. Nitish Kumar Gupta**, Department of Electrical and Electronics Engineering, BITS Pilani, Hyderabad Campus  
+Web page: https://nitishgupta.io/LAB/
+
+**Dr. Harish N Krishnamoorthy**, Meta Photonics Laboratory, Tata Institute of Fundamental Research (TIFR) Hyderabad  
+Web page: https://www.tifrh.res.in/~harishk/
+
+---
+
+## Fellowship & Support
+
+• Self-funded route: Applicants holding fellowships (CSIR/UGC-NET, INSPIRE or equivalent) are welcome.  
+• Research support: Access to all facilities and research infrastructure at both institutes. National and international travel grants available.
+
+---
+
+## How to Apply
+
+Email following documents as a single PDF to:  
+**nitishkumar.gupta@hyderabad.bits-pilani.ac.in**
+
+1. Complete CV (with contact details).  
+2. Brief statement of research interests (1–2 pages) aligned to the proposed domain.  
+3. Copy of transcripts/grade sheets.  
+4. One reference with affiliation(s).
+
+Subject line should be:  
+**“Application: BITS–TIFR Collaborative PhD”**
+
+---
+
+**APPLICATIONS WILL BE REVIEWED ON A CONTINUING BASIS**
