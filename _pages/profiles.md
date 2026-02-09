@@ -10,7 +10,7 @@ sections:
   - title: PhD Scholars
     profiles:
       - align: left
-        image: ph.png
+        image: phani.jpeg
         content: phani.md
         image_circular: false
         more_info: |
@@ -24,7 +24,7 @@ sections:
         more_info: |
           <p>Ardra Muriyankandathil</p>
           <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
-          
+
       - align: left
         image: malleswari.jpeg
         content: malleswari.md
