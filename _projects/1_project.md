@@ -7,7 +7,6 @@ category: work
 related_publications: true
 ---
 
-## BITS Pilani – TIFR Hyderabad Collaborative PhD Opportunity
 
 A collaborative PhD initiative by the Birla Institute of Technology and Science (BITS), Pilani and the Tata Institute of Fundamental Research (TIFR) Hyderabad, to nurture the next generation of researchers working at the frontiers of nanophotonics and quantum photonics.
 
@@ -66,4 +65,3 @@ Subject line should be:
 
 ---
 
-**APPLICATIONS WILL BE REVIEWED ON A CONTINUING BASIS**
