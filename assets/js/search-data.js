@@ -53,9 +53,9 @@ ninja.data = [{
             },},{id: "news-announcement",
           title: 'announcement.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-bits-pilani-tifr-hyderabad-collaborative-phd-opportunity",
+          title: 'BITS Pilani – TIFR Hyderabad Collaborative PhD Opportunity',
+          description: "Collaborative PhD Programme",
           section: "Projects",handler: () => {
               window.location.href = "/LAB/projects/1_project/";
             },},{id: "projects-project-2",
