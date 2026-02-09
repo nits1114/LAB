@@ -8,7 +8,7 @@ nav_order: 7
 
 sections:
     - title: PhD Scholars
-    profiles:
+       profiles:
       - align: left
         image: ardra.jpeg
         content: ardra.md
