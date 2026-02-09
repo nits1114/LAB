@@ -9,11 +9,11 @@ nav_order: 7
 sections:
   - title: PhD Scholars
     profiles:
-      - align: left
-        image: phani.jpeg
-        content: phani.md
-        image_circular: false
-        more_info: |
+     - align: left
+  image: ardra.jpeg
+  content: ardra.md
+  image_circular: false
+  more_info: PhD Scholar
           <p>Chennoju Phanindra</p>
           <p>PhD Scholar</p>
 
