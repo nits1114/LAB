@@ -1,18 +1,14 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-05-01'
 papers:
   ZNU3u0wAAAAJ:35N4QoGY0k4C:
-    citations: 9
+    citations: 10
     title: Impact of FBG feedback phase on laser dynamics
     year: '2022'
   ZNU3u0wAAAAJ:3s1wT3WcHBgC:
-    citations: 2
+    citations: 3
     title: Controlled angular correlations and polarization speckle in scattering birefringent films
     year: '2025'
-  ZNU3u0wAAAAJ:4OULZ7Gr8RgC:
-    citations: 8
-    title: Gopal-Krishna, 2020
-    year: Unknown Year
   ZNU3u0wAAAAJ:D03iK_w7-QYC:
     citations: 0
     title: Nonlinearity Selective Quasi Bound States in the Continuum via Symmetry Protected Decoupling in\chi (2) Thin Films
@@ -23,7 +19,7 @@ papers:
     year: '2024'
   ZNU3u0wAAAAJ:JV2RwH3_ST0C:
     citations: 1
-    title: 'Surface State Engineering Using Bulk-Band Geometric Phases: Band Inversion and its Observable Implications in One-Dimensional Photonic Crystals'
+    title: 'Surface State Engineering Using Bulk-Band Geometric Phases: Band Inversion and its Observable Implications in One-Dimensional Photonic Crystals.'
     year: '2023'
   ZNU3u0wAAAAJ:J_g5lzvAfSwC:
     citations: 0
@@ -33,16 +29,12 @@ papers:
     citations: 15
     title: "Near singular-phase optical biosensing with strongly coupled modes of a plasmonic\u2013photonic trimer"
     year: '2021'
-  ZNU3u0wAAAAJ:M05iB0D1s5AC:
-    citations: 2
-    title: Synthesis and antiviral activity of 3 (4'-methyl quinolino-2'-yloxo) 2H benzopyran-2-ones
-    year: '1993'
   ZNU3u0wAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: Broadband infrared emissivity engineering in optically transparent metamaterials by regulation of electromagnetic resonances
     year: '2019'
   ZNU3u0wAAAAJ:NMxIlDl6LWMC:
-    citations: 5
+    citations: 6
     title: "Realization of Jackiw\u2013Rebbi zero-energy modes at photonic crystal domain walls: emergence of polarization-indiscriminate surface states"
     year: '2024'
   ZNU3u0wAAAAJ:NaGl4SEjCO4C:
@@ -78,7 +70,7 @@ papers:
     title: 'Topological photonic systems: Virtuous platforms to study topological quantum matter'
     year: '2021'
   ZNU3u0wAAAAJ:YFjsv_pBGBYC:
-    citations: 2
+    citations: 3
     title: Harmonic engineering in sub-wavelength cavities & design of ultrabroadband microwave absorbers by reflection phase manipulation
     year: '2024'
   ZNU3u0wAAAAJ:ZHo1McVdvXMC:
@@ -94,11 +86,11 @@ papers:
     title: 'Experimental Markers for Photonic Stopband Topological Character Identification: Polarization-Discriminated Dispersion and Its Applications'
     year: '2025'
   ZNU3u0wAAAAJ:bEWYMUwI8FkC:
-    citations: 7
+    citations: 8
     title: Realizing quasi-monochromatic switchable thermal emission from electro-optically induced topological phase transitions
     year: '2022'
   ZNU3u0wAAAAJ:blknAaTinKkC:
-    citations: 2
+    citations: 3
     title: 'Direct determination of photonic stopband topological character: A framework based on dispersion measurements'
     year: '2024'
   ZNU3u0wAAAAJ:cFHS6HbyZ2cC:
@@ -142,7 +134,7 @@ papers:
     title: Hilbert-Huang Transform-Based Fault Detection and Classification in the Presence of Power Swings
     year: '2025'
   ZNU3u0wAAAAJ:maZDTaKrznsC:
-    citations: 8
+    citations: 9
     title: Spectroscopic ellipsometry-based investigations into the scattering characteristics of topologically distinct photonic stopbands
     year: '2022'
   ZNU3u0wAAAAJ:ns9cj8rnVeAC:
@@ -150,7 +142,7 @@ papers:
     title: Complementary Quarter-wave Retardance Device for Generating One or More Polarization States
     year: '2025'
   ZNU3u0wAAAAJ:r0BpntZqJG4C:
-    citations: 15
+    citations: 16
     title: A low-profile consolidated metastructure for multispectral signature management
     year: '2022'
   ZNU3u0wAAAAJ:u_35RYKgDlwC:
