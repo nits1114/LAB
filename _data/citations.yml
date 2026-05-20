@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-20'
 papers:
   ZNU3u0wAAAAJ:35N4QoGY0k4C:
     citations: 10
@@ -101,6 +101,10 @@ papers:
     citations: 0
     title: 'Clocking the Quantum Sojourn Time: Spurious Scatterings and Correction to the Larmor Clock'
     year: '2021'
+  ZNU3u0wAAAAJ:f2IySw72cVMC:
+    citations: 0
+    title: Polarization-and angle-dependent topological interface states in one-dimensional photonic crystal heterostructures containing birefringent materials
+    year: '2026'
   ZNU3u0wAAAAJ:fPk4N6BV_jEC:
     citations: 0
     title: Active Tunability in Resonant Metamaterials Using Phase Transitions
