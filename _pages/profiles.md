@@ -34,6 +34,14 @@ sections:
         more_info: |
           <p>Ramesh Raja P</p>
           <p>PhD Scholar </p>
+          
+             - align: left
+        image: jugal.jpeg
+        content: ardra.md
+        image_circular: false
+        more_info: |
+          <p>Ardra Muriyankandathil</p>
+          <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
 
 
       - align: left
