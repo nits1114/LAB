@@ -28,7 +28,7 @@ sections:
           <p>PhD Scholar </p>
           
            - align: right
-        image: ramesh.jpeg
+        image: ramesh.jpg
         content: ardra.md
         image_circular: false
         more_info: |
