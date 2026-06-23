@@ -38,7 +38,7 @@ sections:
         content: jugal.md
         image_circular: false
         more_info: |
-          <p>Jugal</p>
+          <p>Jugal Prasad Das</p>
           <p>PhD Scholar (BITS Pilani-RMIT joint PhD)</p>
 
       - align: left
