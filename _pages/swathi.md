@@ -1,1 +1,1 @@
-Swathi is working on Photonic Time Crystal .
+Swathi works on Photonic Time Crystal .
