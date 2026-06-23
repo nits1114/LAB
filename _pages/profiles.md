@@ -11,7 +11,6 @@ sections:
     profiles:
       
 
-          
           - align: right
         image: ardra.jpeg
         content: ardra.md
