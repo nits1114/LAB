@@ -9,40 +9,37 @@ nav_order: 7
 sections:
   - title: PhD Scholars
     profiles:
-      
-
-          - align: right
+      - align: right
         image: ardra.jpeg
         content: ardra.md
         image_circular: false
         more_info: |
           <p>Ardra Muriyankandathil</p>
           <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
-    
+
       - align: left
         image: swathi.jpeg
-        content: ardra.md
+        content: swathi.md
         image_circular: false
         more_info: |
           <p>Swathi Sasi Krishna</p>
-          <p>PhD Scholar </p>
-          
-           - align: right
+          <p>PhD Scholar</p>
+
+      - align: right
         image: ramesh.jpg
-        content: ardra.md
+        content: ramesh.md
         image_circular: false
         more_info: |
           <p>Ramesh Raja P</p>
-          <p>PhD Scholar </p>
-          
-             - align: left
+          <p>PhD Scholar</p>
+
+      - align: left
         image: jugal.jpeg
-        content: ardra.md
+        content: jugal.md
         image_circular: false
         more_info: |
-          <p>Ardra Muriyankandathil</p>
+          <p>Jugal</p>
           <p>PhD Scholar (BITS Pilani-RMIT joint PhD)</p>
-
 
       - align: left
         image: malleswari.jpeg
@@ -52,7 +49,7 @@ sections:
           <p>Bommalapati Malleswari</p>
           <p>Part-time PhD Scholar</p>
           <p>Employed at C-DOT</p>
-
+          
   - title: Undergraduate Researchers
     profiles:
       - align: right
