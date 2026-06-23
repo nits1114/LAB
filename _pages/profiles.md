@@ -11,13 +11,31 @@ sections:
     profiles:
       
 
-      - align: right
+          
+          - align: right
         image: ardra.jpeg
         content: ardra.md
         image_circular: false
         more_info: |
           <p>Ardra Muriyankandathil</p>
           <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
+    
+      - align: left
+        image: swathi.jpeg
+        content: ardra.md
+        image_circular: false
+        more_info: |
+          <p>Swathi Sasi Krishna</p>
+          <p>PhD Scholar </p>
+          
+           - align: right
+        image: ramesh.jpeg
+        content: ardra.md
+        image_circular: false
+        more_info: |
+          <p>Ramesh Raja P</p>
+          <p>PhD Scholar </p>
+
 
       - align: left
         image: malleswari.jpeg
