@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-31'
 papers:
   ZNU3u0wAAAAJ:35N4QoGY0k4C:
     citations: 10
@@ -34,7 +34,7 @@ papers:
     title: Broadband infrared emissivity engineering in optically transparent metamaterials by regulation of electromagnetic resonances
     year: '2019'
   ZNU3u0wAAAAJ:NMxIlDl6LWMC:
-    citations: 6
+    citations: 7
     title: "Realization of Jackiw\u2013Rebbi zero-energy modes at photonic crystal domain walls: emergence of polarization-indiscriminate surface states"
     year: '2024'
   ZNU3u0wAAAAJ:NaGl4SEjCO4C:
@@ -86,9 +86,13 @@ papers:
     title: 'Experimental Markers for Photonic Stopband Topological Character Identification: Polarization-Discriminated Dispersion and Its Applications'
     year: '2025'
   ZNU3u0wAAAAJ:bEWYMUwI8FkC:
-    citations: 8
+    citations: 9
     title: Realizing quasi-monochromatic switchable thermal emission from electro-optically induced topological phase transitions
     year: '2022'
+  ZNU3u0wAAAAJ:bFI3QPDXJZMC:
+    citations: 0
+    title: "Nonlinearity\u2010Selective Dark States via Symmetry\u2010Protected Source\u2010Mode Decoupling in \u03C7 (2) Thin Films"
+    year: '2026'
   ZNU3u0wAAAAJ:blknAaTinKkC:
     citations: 3
     title: 'Direct determination of photonic stopband topological character: A framework based on dispersion measurements'
@@ -138,7 +142,7 @@ papers:
     title: Hilbert-Huang Transform-Based Fault Detection and Classification in the Presence of Power Swings
     year: '2025'
   ZNU3u0wAAAAJ:maZDTaKrznsC:
-    citations: 9
+    citations: 10
     title: Spectroscopic ellipsometry-based investigations into the scattering characteristics of topologically distinct photonic stopbands
     year: '2022'
   ZNU3u0wAAAAJ:ns9cj8rnVeAC:
