@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-14'
 papers:
   ZNU3u0wAAAAJ:35N4QoGY0k4C:
     citations: 10
@@ -13,13 +13,17 @@ papers:
     citations: 0
     title: Nonlinearity Selective Quasi Bound States in the Continuum via Symmetry Protected Decoupling in\chi (2) Thin Films
     year: '2026'
+  ZNU3u0wAAAAJ:EUQCXRtRnyEC:
+    citations: 0
+    title: 'Variational Quantum Eigensolver Simulation of a 1D Topological Insulator: Ansatz Benchmarking and Spectral Targeting on the SSH Chain'
+    year: Unknown Year
   ZNU3u0wAAAAJ:GnPB-g6toBAC:
     citations: 5
     title: A hybrid effective medium description for nanoporous gold films and thickness-mediated control of optical absorption
     year: '2024'
   ZNU3u0wAAAAJ:JV2RwH3_ST0C:
     citations: 1
-    title: 'Surface State Engineering Using Bulk-Band Geometric Phases: Band Inversion and its Observable Implications in One-Dimensional Photonic Crystals'
+    title: 'Surface state engineering using bulk-band geometric phases: Band inversion and its observable implications in one-dimensional photonic crystals'
     year: '2023'
   ZNU3u0wAAAAJ:J_g5lzvAfSwC:
     citations: 0
@@ -81,10 +85,18 @@ papers:
     citations: 0
     title: Unidirectional Narrowband Perfect Absorption in Quasi-random Structures-Interplay of Gap States and Tamm Plasmon Modes
     year: '2020'
+  ZNU3u0wAAAAJ:_xSYboBqXhAC:
+    citations: 5
+    title: IEEE Antennas Wirel
+    year: '2022'
   ZNU3u0wAAAAJ:a0OBvERweLwC:
     citations: 0
     title: 'Experimental Markers for Photonic Stopband Topological Character Identification: Polarization-Discriminated Dispersion and Its Applications'
     year: '2025'
+  ZNU3u0wAAAAJ:b0M2c_1WBrUC:
+    citations: 1
+    title: 'High prevalence of sexual dysfunction among gynecologic cancer patients treated with radiation therapy: Role of treatment technique and time'
+    year: '2016'
   ZNU3u0wAAAAJ:bEWYMUwI8FkC:
     citations: 9
     title: Realizing quasi-monochromatic switchable thermal emission from electro-optically induced topological phase transitions
@@ -106,7 +118,7 @@ papers:
     title: 'Clocking the Quantum Sojourn Time: Spurious Scatterings and Correction to the Larmor Clock'
     year: '2021'
   ZNU3u0wAAAAJ:f2IySw72cVMC:
-    citations: 0
+    citations: 1
     title: Polarization-and angle-dependent topological interface states in one-dimensional photonic crystal heterostructures containing birefringent materials
     year: '2026'
   ZNU3u0wAAAAJ:fPk4N6BV_jEC:
