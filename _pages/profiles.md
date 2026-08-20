@@ -41,7 +41,7 @@ sections:
           <p>Jugal Prasad Das</p>
           <p>PhD Scholar (BITS Pilani-RMIT joint PhD)</p>
 
-      - align: left
+      - align: right
         image: Sreya.jpeg
         content: Sreya.md
         image_circular: false
