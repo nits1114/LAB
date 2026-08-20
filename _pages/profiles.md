@@ -42,12 +42,12 @@ sections:
           <p>PhD Scholar (BITS Pilani-RMIT joint PhD)</p>
 
       - align: left
-        image: malleswari.jpeg
-        content: malleswari.md
+        image: Sreya.jpeg
+        content:Sreya.md
         image_circular: false
         more_info: |
-          <p>Bommalapati Malleswari</p>
-          <p>Part-time PhD Scholar</p>
+          <p>Sreya Sanjeev</p>
+          <p>BITS Pilani-TIFR joint PhD</p>
           <p>Employed at C-DOT</p>
           
   - title: Undergraduate Researchers
