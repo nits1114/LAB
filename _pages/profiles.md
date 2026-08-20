@@ -47,8 +47,8 @@ sections:
         image_circular: false
         more_info: |
           <p>Sreya Sanjeev</p>
-          <p>BITS Pilani-TIFR joint PhD</p>
-          <p>Employed at C-DOT</p>
+          <p>PhD Scholar(BITS Pilani-TIFR joint PhD)</p>
+          
           
   - title: Undergraduate Researchers
     profiles:
