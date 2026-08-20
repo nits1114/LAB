@@ -43,7 +43,7 @@ sections:
 
       - align: left
         image: Sreya.jpeg
-        content:Sreya.md
+        content: Sreya.md
         image_circular: false
         more_info: |
           <p>Sreya Sanjeev</p>
