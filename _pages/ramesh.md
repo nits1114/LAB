@@ -1,1 +1,1 @@
-Ramesh desiging an AI chip that processes structured light sensor data
+Ramesh is specializing in nanophotonic integration utilizing Spiking Neural Networks (SNNs) implemented on FPGA hardware.
