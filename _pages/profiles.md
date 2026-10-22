@@ -42,7 +42,7 @@ sections:
           <p>PhD Scholar (BITS Pilani-RMIT joint PhD)</p>
 
       - align: right
-        image: Sreya.jpeg
+        image: sreya.jpeg
         content: Sreya.md
         image_circular: false
         more_info: |
