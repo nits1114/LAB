@@ -1,1 +1,1 @@
-Currently doing the literature survey and finding the knowledge gaps in the studies of PTC particularly with respect to the understanding of geometric phases.
+Swathi is working on the studies of photonic time crystals particularly on the understanding of geometric phases.
