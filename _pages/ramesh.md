@@ -1,1 +1,1 @@
-Ramesh desiging an AI chip that processes structured light sensor data 
+Ramesh desiging an AI chip that processes structured light sensor data
