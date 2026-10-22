@@ -1,5 +1,4 @@
 {
-  
   "contact_info": {
     "name": "Dr. Nitish Kumar Gupta",
     "label": "Assistant Professor",
@@ -38,16 +37,16 @@
 
   "Professional_Experience": [
     {
-  "name": "Centre for Disruptive Photonic Technologies (CDPT), Nanyang Technological University (NTU), Singapore",
-  "position": "Postdoctoral Research Fellow",
-  "startDate": "2024",
-  "endDate": "2024"
+      "name": "Centre for Disruptive Photonic Technologies (CDPT), Nanyang Technological University (NTU), Singapore",
+      "position": "Postdoctoral Research Fellow",
+      "startDate": "2024",
+      "endDate": "2024"
     },
     {
-  "name": "Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science (IISc), Bangalore",
-  "position": "Project Scientist I",
-  "startDate": "2023",
-  "endDate": "2024"
+      "name": "Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science (IISc), Bangalore",
+      "position": "Project Scientist I",
+      "startDate": "2023",
+      "endDate": "2024"
     },
     {
       "name": "Indian Institute of Technology Kanpur",
@@ -145,16 +144,10 @@
   "book_chapter": [
     {
       "title": "Active Tunability in Resonant Metamaterials Using Phase Transitions",
-      "authors": [
-        "Nikita Choudhary",
-        "Anjani Kumar Tiwari",
-        "Nitish Kumar Gupta"
-      ],
+      "authors": ["Nikita Choudhary", "Anjani Kumar Tiwari", "Nitish Kumar Gupta"],
       "book_title": "Handbook of Measurement and Characterization of Metamaterials",
       "publisher": "Springer",
       "year": "2025"
     }
   ]
 }
-
-

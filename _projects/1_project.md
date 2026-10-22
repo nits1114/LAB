@@ -7,7 +7,6 @@ category: work
 related_publications: false
 ---
 
-
 A collaborative PhD initiative by the Birla Institute of Technology and Science (BITS), Pilani and the Tata Institute of Fundamental Research (TIFR) Hyderabad, to nurture the next generation of researchers working at the frontiers of nanophotonics and quantum photonics.
 
 ---
@@ -55,13 +54,12 @@ Web page: https://www.tifrh.res.in/~harishk/
 Email following documents as a single PDF to:  
 **nitishkumar.gupta@hyderabad.bits-pilani.ac.in**
 
-1. Complete CV (with contact details).  
-2. Brief statement of research interests (1–2 pages) aligned to the proposed domain.  
-3. Copy of transcripts/grade sheets.  
+1. Complete CV (with contact details).
+2. Brief statement of research interests (1–2 pages) aligned to the proposed domain.
+3. Copy of transcripts/grade sheets.
 4. One reference with affiliation(s).
 
 Subject line should be:  
 **“Application: BITS–TIFR Collaborative PhD”**
 
 ---
-

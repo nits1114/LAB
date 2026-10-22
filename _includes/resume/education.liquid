@@ -3,14 +3,13 @@
   {% for content in education %}
     <li class="list-group-item">
       <div class="row">
-
         <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
             {% assign date = content.startDate %}
             {% if content.endDate %}
-              {% assign date = date | append: " - " | append: content.endDate %}
+              {% assign date = date | append: ' - ' | append: content.endDate %}
             {% else %}
-              {% assign date = date | append: " - Present" %}
+              {% assign date = date | append: ' - Present' %}
             {% endif %}
           {% elsif content.endDate %}
             {% assign date = content.endDate %}
@@ -19,9 +18,9 @@
           {% endif %}
 
           {% if date %}
-          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
-            {{ date }}
-          </span>
+            <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+              {{ date }}
+            </span>
           {% endif %}
         </div>
 
@@ -42,7 +41,6 @@
             {{ content.area }}
           </h6>
         </div>
-
       </div>
     </li>
   {% endfor %}

@@ -4,7 +4,6 @@
     <div class="list-group col-md-12">
       <table class="table-cv list-group-table">
         <tbody>
-
           <!-- Patent title -->
           <tr>
             <td class="list-group-category-icon">
@@ -18,17 +17,11 @@
           <!-- Patent details -->
           <tr>
             <td></td>
+            <td class="list-group-name"><b>Patent No:</b> {{ p.number }}</td>
+            <td class="list-group-name"><b>Country:</b> {{ p.country }}</td>
+            <td class="list-group-name"><b>Status:</b> {{ p.status }}</td>
             <td class="list-group-name">
-              <b>Patent No:</b> {{ p.number }}
-            </td>
-            <td class="list-group-name">
-              <b>Country:</b> {{ p.country }}
-            </td>
-            <td class="list-group-name">
-              <b>Status:</b> {{ p.status }}
-            </td>
-            <td class="list-group-name">
-              {{ p.date | date: "%B %Y" }}
+              {{ p.date | date: '%B %Y' }}
             </td>
           </tr>
 
@@ -37,10 +30,9 @@
             <td></td>
             <td colspan="4" class="list-group-name">
               <b>Name of Applicants:</b>
-              {{ p.applicants | join: ", " }}
+              {{ p.applicants | join: ', ' }}
             </td>
           </tr>
-
         </tbody>
       </table>
     </div>

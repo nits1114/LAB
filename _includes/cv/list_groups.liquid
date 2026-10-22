@@ -17,7 +17,9 @@
             </td>
 
             <td class="list-group-category">
-              <b>{% if item.name %}{{ item.name }}{% else %}{{ item.language }}{% endif %}</b>
+              <b>
+                {%- if item.name %}{{ item.name }}{% else %}{{ item.language }}{% endif -%}
+              </b>
             </td>
           </tr>
 
@@ -26,7 +28,7 @@
             <td class="list-group-name">
               {% if item.level %}{{ item.level }}{% endif %}
               {% if item.fluency %}{{ item.fluency }}{% endif %}
-              
+
               {% if item.school %}
                 <span class="list-group-school"> · {{ item.school }}</span>
               {% endif %}
@@ -37,11 +39,11 @@
             </td>
 
             {% if item.link %}
-            <td class="list-group-link">
-              <a href="{{ item.link }}" target="_blank" class="btncv z-depth-0">
-                {% if item.linkname %}{{ item.linkname }}{% else %}DOC{% endif %}
-              </a>
-            </td>
+              <td class="list-group-link">
+                <a href="{{ item.link }}" target="_blank" class="btncv z-depth-0">
+                  {% if item.linkname %}{{ item.linkname }}{% else %}DOC{% endif %}
+                </a>
+              </td>
             {% endif %}
           </tr>
         </tbody>

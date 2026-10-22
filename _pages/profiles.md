@@ -48,8 +48,7 @@ sections:
         more_info: |
           <p>Sreya Sanjeev</p>
           <p>PhD Scholar(BITS Pilani-TIFR joint PhD)</p>
-          
-          
+
   - title: Undergraduate Researchers
     profiles:
       - align: right

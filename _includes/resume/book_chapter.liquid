@@ -4,7 +4,6 @@
     <div class="list-group col-md-12">
       <table class="table-cv list-group-table">
         <tbody>
-
           <!-- Chapter title -->
           <tr>
             <td class="list-group-category-icon">
@@ -18,17 +17,10 @@
           <!-- Chapter details -->
           <tr>
             <td></td>
-            <td class="list-group-name" colspan="2">
-              <b>Authors:</b> {{ chapter.authors | join: ", " }}
-            </td>
-            <td class="list-group-name">
-              <b>Publisher:</b> {{ chapter.publisher }}
-            </td>
-            <td class="list-group-name">
-              <b>Year:</b> {{ chapter.year }}
-            </td>
+            <td class="list-group-name" colspan="2"><b>Authors:</b> {{ chapter.authors | join: ', ' }}</td>
+            <td class="list-group-name"><b>Publisher:</b> {{ chapter.publisher }}</td>
+            <td class="list-group-name"><b>Year:</b> {{ chapter.year }}</td>
           </tr>
-
         </tbody>
       </table>
     </div>

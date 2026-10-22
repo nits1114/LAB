@@ -9,22 +9,20 @@ subtitle: >
   <strong>Phone:</strong> +91 40 66303962<br>
   <strong>Address:</strong> Office H-219, Department of EEE, BITS Pilani, Hyderabad Campus
 
-
-
 profile:
   align: right
   image: Nitish.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
-   # <p>555 your office number</p>
-   # <p>123 your address street</p>
-   # <p>Your City, State 12345</p>
+  # <p>555 your office number</p>
+  # <p>123 your address street</p>
+  # <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false  # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -33,6 +31,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 <div style="text-align: justify;">
 I earned my Ph.D. in Photonics Science and Engineering from the Indian Institute of Technology (IIT) Kanpur, India (2023) and I’m currently an Assistant Professor in the Department of Electrical and Electronics Engineering at BITS Pilani, Hyderabad Campus.
 
@@ -57,5 +56,5 @@ My research sits at the intersection of nanophotonics and quantum matter, where 
 <br><br>
 
 A recent thrust of my work is toward photonic integrated circuits and quantum photonics, focusing on resonant devices that are both physically insightful and practically useful. More recently, I am expanding these directions into nonlinear optics and two-dimensional materials, exploring how strong confinement, symmetry, and dispersion engineering can unlock new regimes of functionality for next-generation photonic systems.
-</div>
 
+</div>

@@ -7,5 +7,5 @@ nav_order: 5
 cv_pdf: Nits_CV2.pdf # you can also use external links here
 description:
 toc:
- sidebar: left
+  sidebar: left
 ---
