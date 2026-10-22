@@ -1,1 +1,1 @@
-Sreya’s research interests lie in topological transitions in photonic systems, particularly band topology and iso-frequency topology in photonic crystals and hyperbolic metamaterials, with a focus on understanding their underlying physical mechanisms and potential applications.
+Sreya’s research interests lie in topological transitions in photonic systems, particularly band topology and iso-frequency topology in photonic crystals and hyperbolic metamaterials.
