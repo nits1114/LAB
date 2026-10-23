@@ -55,7 +55,7 @@ sections:
         image_circular: false
         more_info: |
           <p>Achyuth</p>
-          <p>PhD Scholar</p>
+          <p>Project student</p>
 
   - title: Undergraduate Researchers
     profiles:
