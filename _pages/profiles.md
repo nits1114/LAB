@@ -49,6 +49,14 @@ sections:
           <p>Sreya Sanjeev</p>
           <p>PhD Scholar(BITS Pilani-TIFR joint PhD)</p>
 
+      - align: left
+        image: Achyuth.jpeg
+        content: achyuth.md
+        image_circular: false
+        more_info: |
+          <p>Achyuth</p>
+          <p>PhD Scholar</p>
+
   - title: Undergraduate Researchers
     profiles:
       - align: right
