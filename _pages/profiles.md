@@ -54,7 +54,7 @@ sections:
         content: achyuth.md
         image_circular: false
         more_info: |
-          <p>Achyuth</p>
+          <p>Achyuth Murlei</p>
           <p>Project student</p>
 
   - title: Undergraduate Researchers
