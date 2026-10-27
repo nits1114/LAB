@@ -59,7 +59,7 @@ sections:
 
   - title: Undergraduate Researchers
     profiles:
-     -align: left
+        -align: left
         image: anuvansh.jpeg
         content: anuvansh.md
         image_circular: false
