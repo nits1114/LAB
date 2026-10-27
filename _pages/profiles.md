@@ -6,7 +6,7 @@ description: Members of the research group
 nav: true
 nav_order: 7
 
-sections:
+  sections:
   - title: PhD Scholars
     profiles:
       - align: right
