@@ -59,6 +59,14 @@ sections:
 
   - title: Undergraduate Researchers
     profiles:
+    - align: left
+        image: Anuvansh Gera.jpeg
+        content: Anuvansh Gera.md
+        image_circular: false
+        more_info: |
+          <p>Anuvansh Gera</p>
+          <p>Student at BITS Pilani</p>
+          
       - align: right
         image: prahlad.jpeg
         content: prahlad.md
