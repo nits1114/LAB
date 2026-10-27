@@ -1,3 +1,4 @@
+
 ---
 layout: profiles
 permalink: /research-group/
@@ -6,7 +7,7 @@ description: Members of the research group
 nav: true
 nav_order: 7
 
-  sections:
+sections:
   - title: PhD Scholars
     profiles:
       - align: right
@@ -47,7 +48,7 @@ nav_order: 7
         image_circular: false
         more_info: |
           <p>Sreya Sanjeev</p>
-          <p>PhD Scholar(BITS Pilani-TIFR joint PhD)</p>
+          <p>PhD Scholar (BITS Pilani-TIFR joint PhD)</p>
 
       - align: left
         image: Achyuth.jpeg
@@ -57,8 +58,8 @@ nav_order: 7
           <p>Achyuth Murlei</p>
           <p>Project student</p>
 
-    - title: Undergraduate Researchers
-      profiles:
+  - title: Undergraduate Researchers
+    profiles:
       - align: left
         image: anuvansh.jpeg
         content: anuvansh.md
