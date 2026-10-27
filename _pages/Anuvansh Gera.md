@@ -1,0 +1,1 @@
+Anuvansh Gera, currently at the University of Sannio, Italy, worked on “Robustness and Performance Analysis of Space-Time-Coding Metasurfaces under Non-Ideal Time Modulation” under the joint supervision with Prof. Vincenzo Galdi.
