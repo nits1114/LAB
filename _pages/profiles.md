@@ -57,8 +57,8 @@ sections:
           <p>Achyuth Murlei</p>
           <p>Project student</p>
 
-  - title: Undergraduate Researchers
-    profiles:
+    - title: Undergraduate Researchers
+      profiles:
         -align: left
         image: anuvansh.jpeg
         content: anuvansh.md
